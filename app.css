@@ -1,0 +1,123 @@
+
+
+body{
+    padding: 0;
+    margin: 0;
+    size width: 4px;height 4px
+} 
+.LEFT-BOX{
+    background-image: url(twitter.jpg.jpg);
+
+    width:50%;  
+    height: 90vh;
+    padding-top:50px;
+.LEFT ICONS1
+padding-right: 3000px;
+}
+.people icon.JPG.{
+    text-decoration-color: none
+   justify-items:space in between; 
+}  
+
+
+
+input[type="signup"]{
+    padding:10px 100px;
+    border-radius: 20px;
+    color:white;
+    background-color: blue;
+}
+
+
+.LEFTNRIGHT{
+    padding-left: 15%;
+}
+
+
+
+
+input[type="login"]{
+padding:10px 100px;
+border-radius: 20px;
+color:blue;
+border-color: blue;
+}
+
+.upperlog input{
+    
+           border-radius: 20px;
+           border-bottom: black;
+            padding: 10px 20px;
+           
+
+
+}
+
+.upperpassword input{
+    
+    border-radius: 20px;
+    border-bottom: black;
+     padding: 10px 20px;
+}
+
+
+
+.uppersubmit input{
+    
+    border-radius: 20px;
+    border-bottom: black;
+     padding: 10px 20px;
+}
+
+
+.upper battons{
+    Display:flex;
+    justify-content: space-around;
+
+
+} 
+
+
+h4{
+    justify-content: center;
+    padding-left: 25%;
+}
+.RIGHT-BOX {
+    width:40%
+    padding-left: 50px;
+
+   .tiwtter.jpg
+
+}
+.LEFTNRIGHT{
+    Display:flex;
+    flex-basis: 40%;
+    padding-left: 10px;
+    margin:0;
+    padding:0;
+}
+   
+body {
+    
+    
+
+    }
+
+    .BOTTOM-BOX ul {
+        
+        justify-content: center;
+        align-items: center;
+    }
+    a{
+        text-decoration: none;
+        justify-content: space-between;
+        padding: 17px;
+    }
+
+    
+      
+
+
+
+
+
